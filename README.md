@@ -1,8 +1,4 @@
 # Practica04-Mi-Correo-Electr-nico
-Reunion
-  	VICERRECTORADO DOCENTE 	Código: GUIA-PRL-001 
-	CONSEJO ACADÉMICO 	Aprobación: 2016/04/06 
-Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación 
  
 PRÁCTICA DE LABORATORIO 
  
